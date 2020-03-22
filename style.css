@@ -27,4 +27,18 @@ nav ul li {
     display: inline-block;
     padding: 30px;
     cursor: pointer;
+    color: #7fc4da;
+}
+
+#back-to-top {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;    
 }

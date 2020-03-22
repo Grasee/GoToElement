@@ -7,7 +7,7 @@
     <title>GoToElement</title>
     <link rel="stylesheet" href="./style.css">
 </head>
-<body>
+<body id="top">
     <nav>
         <ul>
             <li data-goto-target="#box1" data-goto-duration="500">連結1</li>
@@ -23,6 +23,8 @@
     <div id="box3">區域3</div>
     <div id="box4">區域4</div>
     <div id="box5">區域5</div>
+
+    <div id="back-to-top" data-goto-target="#top" data-goto-duration="1500">^</div>
 
     <!-- JS CDN -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
