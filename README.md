@@ -2,7 +2,7 @@
 GoToElement
 
 #範例
-
+    https://grasee.github.io/GoToElement/
 
 #CDN
 jQuery CDN
@@ -11,7 +11,7 @@ jQuery CDN
 
 go to element CDN
 
-    
+     <script src="https://grasee.github.io/GoToElement/GoToElement.js"></script>
 
 屬性
 
